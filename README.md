@@ -54,7 +54,7 @@
       height="40"
     />
   </a>
-  <a href="https://es.impreza.host/wp-content/uploads/2020/04/PHP-4.png">
+  <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank" rel="noreferrer">
     <img
       src="https://es.impreza.host/wp-content/uploads/2020/04/PHP-4.png"
       alt="php"
