@@ -62,19 +62,132 @@
       height="40"
     />
   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg"
+      alt="anaconda"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg"
+      alt="apache"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original-wordmark.svg"
+      alt="cassandra"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
+      alt="figma"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg"
+      alt="firebase"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"
+      alt="jupyter"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg"
+      alt="kaggle"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg"
+      alt="keras"
+      width="60"
+      height="60"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
+      width="60"
+      height="60"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg"
+      alt="numpy"
+      width="60"
+      height="60"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"
+      alt="pandas"
+      width="60"
+      height="60"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg"
+      alt="postman"
+      width="80"
+      height="80"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"
+      alt="python"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg"
+      alt="pytorch"
+      width="70"
+      height="70"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg"
+      alt="redis"
+      width="50"
+      height="50"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg"
+      alt="tensorflow"
+      width="70"
+      height="70"
+    />
+  </a>
 </p>
-
-<!--
-**Diego-Coello-Moran/Diego-Coello-Moran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
