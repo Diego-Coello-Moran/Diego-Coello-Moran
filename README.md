@@ -1,4 +1,4 @@
-### Hello i'm Diego 👋
+### Hola! Soy Diego Coello Morán 👋
 
 #### Desarrollador de Aplicaciones Web especializado en la integración de Inteligencia Artificial y arquitecturas de Big Data. Mi enfoque se centra en crear soluciones escalables que no solo funcionen, sino que aprendan y evolucionen con los datos.
 #### Intereses: Machine Learning aplicado a la web, procesamiento de datos en tiempo real y optimización de algoritmos.
