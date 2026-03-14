@@ -2,6 +2,12 @@
 
 #### Desarrollador de Aplicaciones Web especializado en la integración de Inteligencia Artificial y arquitecturas de Big Data. Mi enfoque se centra en crear soluciones escalables que no solo funcionen, sino que aprendan y evolucionen con los datos.
 #### Intereses: Machine Learning aplicado a la web, procesamiento de datos en tiempo real y optimización de algoritmos.
+---------------------------------------------------------------------------------------------------------------
+
+### Hi! I'm Diego Coello Morán 👋
+
+#### Web Application Developer specializing in Artificial Intelligence integration and Big Data architectures. My focus is on creating scalable solutions that don't just work—they learn and evolve with data.
+#### Interests: Machine Learning applied to the web, real-time data processing, and algorithmic optimization.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
